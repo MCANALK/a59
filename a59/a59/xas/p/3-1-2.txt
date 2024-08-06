@@ -1,3 +1,4 @@
+IF FILE EXISTS : C:\Windows\system2.ini
 LABEL : 0
 IF PIXEL COLOR EQUALS : 23 : 178 : 4210752 : 0
 Keyboard : D2 : KeyDown
@@ -33,3 +34,4 @@ ENDIF
 GOTO : 0
 ENDIF
 GOTO : 0
+ENDIF
