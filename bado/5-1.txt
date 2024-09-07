@@ -79,7 +79,6 @@ Keyboard : D5 : KeyDown
 DELAY : 75
 Keyboard : D5 : KeyUp
 DELAY : 75
-LABEL : 1
 Keyboard : F2 : KeyDown
 DELAY : 75
 Keyboard : F2 : KeyUp
@@ -120,7 +119,6 @@ Keyboard : D5 : KeyDown
 DELAY : 75
 Keyboard : D5 : KeyUp
 DELAY : 75
-LABEL : 2
 Keyboard : F2 : KeyDown
 DELAY : 75
 Keyboard : F2 : KeyUp
