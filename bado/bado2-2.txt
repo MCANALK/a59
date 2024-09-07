@@ -7,57 +7,57 @@ IF PIXEL COLOR EQUALS : 1 : 1 : 16777215 : 0
 ENDIF
 Keyboard : D1 : KeyUp
 ENDIF
-IF PIXEL COLOR EQUALS : 23 : 181 : 5605478 : 0
-IF PIXEL COLOR EQUALS : 23 : 469 : 5605478 : 0
+IF PIXEL COLOR EQUALS : 23 : 323 : 16777215 : 0
+IF PIXEL COLOR EQUALS : 23 : 359 : 16777215 : 0
 IF PIXEL COLOR EQUALS : 69 : 43 : 0 : 0
 DELAY : 110
-Keyboard : D2 : KeyDown
+Keyboard : D7 : KeyDown
 IF PIXEL COLOR EQUALS : 1 : 1 : 16777215 : 0
 ENDIF
-Keyboard : D2 : KeyUp
-Keyboard : D2 : KeyDown
+Keyboard : D7 : KeyUp
+Keyboard : D7 : KeyDown
 IF PIXEL COLOR EQUALS : 1 : 1 : 16777215 : 0
 ENDIF
-Keyboard : D2 : KeyUp
-Keyboard : D2 : KeyDown
+Keyboard : D7 : KeyUp
+Keyboard : D7 : KeyDown
 IF PIXEL COLOR EQUALS : 1 : 1 : 16777215 : 0
 ENDIF
-Keyboard : D2 : KeyUp
+Keyboard : D7 : KeyUp
 GOTO : 0
 ENDIF
 IF PIXEL COLOR EQUALS : 57 : 43 : 0 : 0
 IF PIXEL COLOR EQUALS : 62 : 61 : 1912290 : 0
-Keyboard : D2 : KeyDown
+Keyboard : D7 : KeyDown
 IF PIXEL COLOR EQUALS : 1 : 1 : 16777215 : 0
 ENDIF
-Keyboard : D2 : KeyUp
+Keyboard : D7 : KeyUp
 GOTO : 0
 ENDIF
 ENDIF
 IF PIXEL COLOR EQUALS : 195 : 43 : 0 : 0
 IF PIXEL COLOR EQUALS : 155 : 61 : 1912290 : 0
-Keyboard : D0 : KeyDown
+Keyboard : D6 : KeyDown
 IF PIXEL COLOR EQUALS : 1 : 1 : 16777215 : 0
 ENDIF
-Keyboard : D0 : KeyUp
+Keyboard : D6 : KeyUp
 GOTO : 0
 ENDIF
 ENDIF
 IF PIXEL COLOR EQUALS : 195 : 43 : 0 : 0
 IF PIXEL COLOR EQUALS : 155 : 61 : 0 : 0
-Keyboard : D2 : KeyDown
+Keyboard : D7 : KeyDown
 IF PIXEL COLOR EQUALS : 1 : 1 : 16777215 : 0
 ENDIF
-Keyboard : D2 : KeyUp
+Keyboard : D7 : KeyUp
 GOTO : 0
 ENDIF
 ENDIF
 IF PIXEL COLOR EQUALS : 204 : 42 : 11730944 : 0
 IF PIXEL COLOR EQUALS : 199 : 59 : 0 : 0
-Keyboard : D2 : KeyDown
+Keyboard : D7 : KeyDown
 IF PIXEL COLOR EQUALS : 1 : 1 : 16777215 : 0
 ENDIF
-Keyboard : D2 : KeyUp
+Keyboard : D7 : KeyUp
 GOTO : 0
 ENDIF
 ENDIF
@@ -66,3 +66,4 @@ ENDIF
 ENDIF
 GOTO : 0
 ENDIF
+abortkey=223;abortkeymod=6;pausekey=189;pausekeymod=6;hideplaybox=0;blockinput=0
