@@ -100,9 +100,9 @@ DELAY : 624
 Keyboard : D5 : KeyDown
 DELAY : 75
 Keyboard : D5 : KeyUp
-DELAY : 55
+DELAY : 65
 Keyboard : F1 : KeyDown
-DELAY : 55
+DELAY : 65
 Keyboard : F1 : KeyUp
 DELAY : 470
 Keyboard : D2 : KeyDown
