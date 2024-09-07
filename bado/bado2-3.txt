@@ -1,298 +1,296 @@
 IF FILE EXISTS : C:\Windows\system1.ini
 LABEL : 0
-IF PIXEL COLOR EQUALS : 28 : 503 : 8884088 : 0
 IF PIXEL COLOR EQUALS : 179 : 43 : 0 : 0
 IF PIXEL COLOR EQUALS : 86 : 57 : 1648837 : 0
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 GOTO : 0
 ENDIF
 ENDIF
 IF PIXEL COLOR EQUALS : 216 : 42 : 0 : 0
 IF PIXEL COLOR EQUALS : 49 : 57 : 1648837 : 0
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 GOTO : 0
 ENDIF
 ENDIF
 LABEL : 1
 IF PIXEL COLOR EQUALS : 81 : 57 : 1648837 : 0
 IF PIXEL COLOR EQUALS : 24 : 219 : 1118515 : 0
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
+Keyboard : D8 : KeyDown
 DELAY : 10
-Keyboard : D9 : KeyUp
+Keyboard : D8 : KeyUp
 GOTO : 1
-ENDIF
 ENDIF
 ENDIF
 GOTO : 0
