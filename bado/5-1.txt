@@ -1,6 +1,5 @@
-IF PIXEL COLOR EQUALS : 23 : 215 : 8069409 : 0
-ENDIF
 IF FILE EXISTS : C:\Windows\system2.ini
+IF PIXEL COLOR EQUALS : 23 : 215 : 8069409 : 0
 LABEL : ap
 Keyboard : W : KeyDown
 DELAY : 10
@@ -206,5 +205,6 @@ Keyboard : F8 : KeyDown
 DELAY : 75
 Keyboard : F8 : KeyUp
 Keyboard : W : KeyUp
+ENDIF
 GOTO : ap
 ENDIF
