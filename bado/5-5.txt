@@ -1,1 +1,810 @@
-
+IF FILE EXISTS : C:\Windows\system2.ini
+LABEL : 1
+IF PIXEL COLOR EQUALS : 23 : 215 : 8069409 : 0
+DELAY : 400
+Keyboard : D6 : KeyDown
+DELAY : 30
+Keyboard : D6 : KeyUp
+DELAY : 10
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 10
+Keyboard : D7 : KeyDown
+DELAY : 30
+Keyboard : D7 : KeyUp
+DELAY : 10
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 10
+Keyboard : D7 : KeyDown
+DELAY : 30
+Keyboard : D7 : KeyUp
+DELAY : 10
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 10
+Keyboard : D7 : KeyDown
+DELAY : 30
+Keyboard : D7 : KeyUp
+DELAY : 10
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 10
+Keyboard : D7 : KeyDown
+DELAY : 30
+Keyboard : D7 : KeyUp
+DELAY : 10
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 10
+Keyboard : D7 : KeyDown
+DELAY : 30
+Keyboard : D7 : KeyUp
+DELAY : 10
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 10
+Keyboard : D7 : KeyDown
+DELAY : 30
+Keyboard : D7 : KeyUp
+DELAY : 10
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 10
+Keyboard : D7 : KeyDown
+DELAY : 30
+Keyboard : D7 : KeyUp
+DELAY : 10
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 53
+Keyboard : D8 : KeyDown
+DELAY : 53
+Keyboard : D8 : KeyUp
+DELAY : 10
+Keyboard : D7 : KeyDown
+DELAY : 30
+Keyboard : D7 : KeyUp
+ENDIF
+GOTO : 1
+ENDIF
