@@ -1,6 +1,6 @@
 IF FILE EXISTS : C:\Windows\system2.ini
-IF PIXEL COLOR EQUALS : 23 : 215 : 8069409 : 0
 LABEL : ap
+IF PIXEL COLOR EQUALS : 23 : 215 : 8069409 : 0
 Keyboard : W : KeyDown
 DELAY : 10
 Keyboard : R : KeyDown
