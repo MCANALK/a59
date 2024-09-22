@@ -1,105 +1,277 @@
 IF FILE EXISTS : C:\Windows\system2.ini
 LABEL : 1
-IF PIXEL COLOR EQUALS : 23 : 215 : 8069409 : 0
+IF PIXEL COLOR EQUALS : 53 : 215 : 8069409 : 0
 DELAY : 400
 Keyboard : D0 : KeyDown
 DELAY : 30
 Keyboard : D0 : KeyUp
 DELAY : 10
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 18
 Keyboard : D9 : KeyUp
 DELAY : 10
 Keyboard : D2 : KeyDown
@@ -107,99 +279,271 @@ DELAY : 30
 Keyboard : D2 : KeyUp
 DELAY : 10
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 18
 Keyboard : D9 : KeyUp
 DELAY : 10
 Keyboard : D2 : KeyDown
@@ -207,99 +551,271 @@ DELAY : 30
 Keyboard : D2 : KeyUp
 DELAY : 10
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 18
 Keyboard : D9 : KeyUp
 DELAY : 10
 Keyboard : D2 : KeyDown
@@ -307,99 +823,271 @@ DELAY : 30
 Keyboard : D2 : KeyUp
 DELAY : 10
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 18
 Keyboard : D9 : KeyUp
 DELAY : 10
 Keyboard : D2 : KeyDown
@@ -407,99 +1095,271 @@ DELAY : 30
 Keyboard : D2 : KeyUp
 DELAY : 10
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 18
 Keyboard : D9 : KeyUp
 DELAY : 10
 Keyboard : D2 : KeyDown
@@ -507,336 +1367,277 @@ DELAY : 30
 Keyboard : D2 : KeyUp
 DELAY : 10
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyUp
-DELAY : 33
+DELAY : 25
 Keyboard : D9 : KeyDown
-DELAY : 33
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 25
+Keyboard : D9 : KeyUp
+DELAY : 25
+Keyboard : D9 : KeyDown
+DELAY : 18
 Keyboard : D9 : KeyUp
 DELAY : 10
 Keyboard : D2 : KeyDown
 DELAY : 30
 Keyboard : D2 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 10
-Keyboard : D2 : KeyDown
-DELAY : 30
-Keyboard : D2 : KeyUp
-DELAY : 10
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyDown
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 33
-Keyboard : D9 : KeyUp
-DELAY : 10
-Keyboard : D2 : KeyDown
-DELAY : 30
-Keyboard : D2 : KeyUp
 ENDIF
 GOTO : 1
 ENDIF
