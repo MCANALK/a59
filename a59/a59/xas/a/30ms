@@ -1,0 +1,1695 @@
+IF FILE EXISTS : C:\Windows\system2.ini
+LABEL : 1
+IF PIXEL COLOR EQUALS : 23 : 215 : 8069409 : 0
+DELAY : 144
+Keyboard : D0 : KeyDown
+DELAY : 30
+Keyboard : D0 : KeyUp
+DELAY : 29
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 15
+Keyboard : D9 : KeyUp
+DELAY : 14
+Keyboard : D2 : KeyDown
+DELAY : 30
+Keyboard : D2 : KeyUp
+DELAY : 29
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 15
+Keyboard : D9 : KeyUp
+DELAY : 14
+Keyboard : D2 : KeyDown
+DELAY : 30
+Keyboard : D2 : KeyUp
+DELAY : 29
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 15
+Keyboard : D9 : KeyUp
+DELAY : 14
+Keyboard : D2 : KeyDown
+DELAY : 30
+Keyboard : D2 : KeyUp
+DELAY : 29
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 15
+Keyboard : D9 : KeyUp
+DELAY : 14
+Keyboard : D2 : KeyDown
+DELAY : 30
+Keyboard : D2 : KeyUp
+DELAY : 29
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 15
+Keyboard : D9 : KeyUp
+DELAY : 14
+Keyboard : D2 : KeyDown
+DELAY : 30
+Keyboard : D2 : KeyUp
+DELAY : 29
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 15
+Keyboard : D9 : KeyUp
+DELAY : 14
+Keyboard : D2 : KeyDown
+DELAY : 30
+Keyboard : D2 : KeyUp
+DELAY : 29
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 15
+Keyboard : D9 : KeyUp
+DELAY : 14
+Keyboard : D2 : KeyDown
+DELAY : 30
+Keyboard : D2 : KeyUp
+DELAY : 29
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 15
+Keyboard : D9 : KeyUp
+DELAY : 14
+Keyboard : D2 : KeyDown
+DELAY : 30
+Keyboard : D2 : KeyUp
+DELAY : 29
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 15
+Keyboard : D9 : KeyUp
+DELAY : 14
+Keyboard : D2 : KeyDown
+DELAY : 30
+Keyboard : D2 : KeyUp
+DELAY : 29
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 30
+Keyboard : D9 : KeyUp
+DELAY : 30
+Keyboard : D9 : KeyDown
+DELAY : 15
+Keyboard : D9 : KeyUp
+DELAY : 14
+Keyboard : D2 : KeyDown
+DELAY : 30
+Keyboard : D2 : KeyUp
+DELAY : 29
+ENDIF
+GOTO : 1
+ENDIF
