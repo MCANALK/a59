@@ -101,7 +101,7 @@ DELAY : 55
 Keyboard : F1 : KeyDown
 DELAY : 75
 Keyboard : F1 : KeyUp
-DELAY : 402
+DELAY : 424
 Keyboard : D3 : KeyDown
 DELAY : 75
 Keyboard : D3 : KeyUp
