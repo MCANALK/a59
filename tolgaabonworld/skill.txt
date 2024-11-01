@@ -97,7 +97,11 @@ DELAY : 435
 Keyboard : D2 : KeyDown
 DELAY : 75
 Keyboard : D2 : KeyUp
-DELAY : 565
+DELAY : 75
+Keyboard : F5 : KeyDown
+DELAY : 75
+Keyboard : F5 : KeyUp
+DELAY : 415
 Keyboard : W : KeyUp
 Keyboard : D8 : KeyDown
 DELAY : 75
