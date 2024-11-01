@@ -3,10 +3,10 @@ LABEL : 0
 IF PIXEL COLOR EQUALS : 28 : 503 : 8884088 : 0
 IF PIXEL COLOR EQUALS : 23 : 286 : 10270133 : 0
 Keyboard : W : KeyUp
-Keyboard : D6 : KeyDown
+Keyboard : D5 : KeyDown
 DELAY : 25
-Keyboard : D6 : KeyUp
-DELAY : 605
+Keyboard : D5 : KeyUp
+DELAY : 630
 Keyboard : W : KeyDown
 DELAY : 25
 Keyboard : W : KeyUp
