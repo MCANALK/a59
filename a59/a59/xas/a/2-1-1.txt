@@ -2,11 +2,13 @@ IF FILE EXISTS : C:\Windows\system1.ini
 LABEL : 0
 IF PIXEL COLOR EQUALS : 28 : 503 : 8884088 : 0
 IF PIXEL COLOR EQUALS : 23 : 286 : 10270133 : 0
+Mouse : C-3 : C-3 : LeftButtonUp : 0 : 0 : 0
 Keyboard : W : KeyUp
 Keyboard : D5 : KeyDown
 DELAY : 25
 Keyboard : D5 : KeyUp
 DELAY : 630
+Mouse : C3 : C3 : LeftButtonDown : 0 : 0 : 0
 Keyboard : W : KeyDown
 DELAY : 25
 Keyboard : W : KeyUp
