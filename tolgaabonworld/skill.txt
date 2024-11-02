@@ -1,5 +1,5 @@
-IF PIXEL COLOR EQUALS : 23 : 179 : 8069409 : 0
 LABEL : k
+IF PIXEL COLOR EQUALS : 23 : 179 : 8069409 : 0
 Keyboard : W : KeyDown
 DELAY : 24
 Keyboard : R : KeyDown
