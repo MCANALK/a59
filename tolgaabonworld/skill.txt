@@ -1,5 +1,5 @@
-LABEL : k
 IF PIXEL COLOR EQUALS : 23 : 179 : 8069409 : 0
+LABEL : k
 Keyboard : W : KeyDown
 DELAY : 24
 Keyboard : R : KeyDown
@@ -57,15 +57,15 @@ DELAY : 400
 Keyboard : D2 : KeyDown
 DELAY : 75
 Keyboard : D2 : KeyUp
-DELAY : 585
+DELAY : 565
 Keyboard : D3 : KeyDown
 DELAY : 75
 Keyboard : D3 : KeyUp
-DELAY : 585
+DELAY : 565
 Keyboard : D3 : KeyDown
 DELAY : 75
 Keyboard : D3 : KeyUp
-DELAY : 585
+DELAY : 565
 Keyboard : D3 : KeyDown
 DELAY : 75
 Keyboard : D3 : KeyUp
@@ -73,7 +73,7 @@ DELAY : 75
 Keyboard : F2 : KeyDown
 DELAY : 75
 Keyboard : F2 : KeyUp
-DELAY : 435
+DELAY : 487
 Keyboard : D2 : KeyDown
 DELAY : 75
 Keyboard : D2 : KeyUp
@@ -97,21 +97,15 @@ DELAY : 435
 Keyboard : D2 : KeyDown
 DELAY : 75
 Keyboard : D2 : KeyUp
+DELAY : 560
+Keyboard : D3 : KeyDown
 DELAY : 75
-Keyboard : F5 : KeyDown
+Keyboard : D3 : KeyUp
 DELAY : 75
-Keyboard : F5 : KeyUp
-DELAY : 415
-Keyboard : W : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 75
-Keyboard : D8 : KeyUp
-DELAY : 570
-Keyboard : W : KeyDown
 Keyboard : F1 : KeyDown
-DELAY : 15
+DELAY : 75
 Keyboard : F1 : KeyUp
-DELAY : 15
+DELAY : 435
 Keyboard : D3 : KeyDown
 DELAY : 75
 Keyboard : D3 : KeyUp
