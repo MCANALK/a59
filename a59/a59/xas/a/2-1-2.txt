@@ -9,6 +9,7 @@ DELAY : 25
 Keyboard : D5 : KeyUp
 DELAY : 630
 Mouse : C3 : C3 : LeftButtonDown : 0 : 0 : 0
+DELAY : 25
 Keyboard : W : KeyDown
 DELAY : 25
 Keyboard : W : KeyUp
