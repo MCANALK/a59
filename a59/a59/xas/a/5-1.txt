@@ -13,9 +13,9 @@ Keyboard : D5 : KeyUp
 GOTO : K
 ENDIF
 IF PIXEL COLOR EQUALS : 107 : 286 : 10703442 : 0
+Keyboard : W : KeyUp
 IF PIXEL COLOR EQUALS : 107 : 215 : 8069409 : 0
 LABEL : z
-Keyboard : W : KeyUp
 Keyboard : D3 : KeyDown
 DELAY : 75
 Keyboard : D3 : KeyUp
@@ -25,6 +25,10 @@ DELAY : 75
 Keyboard : F1 : KeyUp
 DELAY : 480
 IF PIXEL COLOR EQUALS : 107 : 215 : 8069409 : 0
+Keyboard : F6 : KeyDown
+DELAY : 25
+Keyboard : F6 : KeyUp
+DELAY : 25
 GOTO : z
 ENDIF
 Keyboard : W : KeyDown
@@ -169,10 +173,6 @@ DELAY : 75
 Keyboard : D6 : KeyUp
 DELAY : 75
 ENDIF
-Keyboard : F6 : KeyDown
-DELAY : 75
-Keyboard : F6 : KeyUp
-DELAY : 75
 ELSE
 GOTO : K
 ENDIF
