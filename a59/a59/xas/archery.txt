@@ -45,3 +45,4 @@ Keyboard : D3 : KeyUp
 DELAY : 75
 GOTO : 1
 ENDIF
+GOTO : 1
