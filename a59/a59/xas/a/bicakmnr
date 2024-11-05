@@ -405,7 +405,7 @@ DELAY : 10
 Keyboard : D0 : KeyDown
 DELAY : 30
 Keyboard : D0 : KeyUp
-DELAY : 10
+DELAY : 100
 Keyboard : D9 : KeyDown
 DELAY : 53
 Keyboard : D9 : KeyUp
@@ -495,11 +495,11 @@ DELAY : 53
 Keyboard : D9 : KeyUp
 DELAY : 53
 Keyboard : D9 : KeyDown
-DELAY : 53
+DELAY : 43
 Keyboard : D9 : KeyUp
-DELAY : 53
+DELAY : 13
 Keyboard : D9 : KeyDown
-DELAY : 53
+DELAY : 13
 Keyboard : D9 : KeyUp
 DELAY : 10
 Keyboard : D2 : KeyDown
