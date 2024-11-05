@@ -1,7 +1,7 @@
 IF FILE EXISTS : C:\Windows\system2.ini
 LABEL : 1
 IF PIXEL COLOR EQUALS : 23 : 215 : 8069409 : 0
-DELAY : 400
+DELAY : 525
 Keyboard : D0 : KeyDown
 DELAY : 30
 Keyboard : D0 : KeyUp
