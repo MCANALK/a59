@@ -1,7 +1,7 @@
 LABEL : 1
 IF PIXEL COLOR EQUALS : 23 : 215 : 12413803 : 0
 Keyboard : D4 : KeyDown
-DELAY : 445
+DELAY : 453
 Keyboard : D4 : KeyUp
 Keyboard : W : KeyDown
 DELAY : 15
