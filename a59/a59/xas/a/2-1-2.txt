@@ -1,13 +1,13 @@
 IF FILE EXISTS : C:\Windows\system1.ini
 LABEL : 0
 IF PIXEL COLOR EQUALS : 28 : 503 : 8884088 : 0
-IF PIXEL COLOR EQUALS : 23 : 286 : 10270133 : 0
 IF PIXEL COLOR EQUALS : 23 : 253 : 2236996 : 0
 Keyboard : D4 : KeyDown
 IF PIXEL COLOR EQUALS : 1 : 1 : 16777215 : 0
 ENDIF
 Keyboard : D4 : KeyUp
 ENDIF
+IF PIXEL COLOR EQUALS : 23 : 286 : 10270133 : 0
 Mouse : C-3 : C-3 : LeftButtonUp : 0 : 0 : 0
 Keyboard : W : KeyUp
 Keyboard : D5 : KeyDown
