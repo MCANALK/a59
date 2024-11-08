@@ -1,7 +1,7 @@
 IF FILE EXISTS : C:\Windows\system1.ini
 LABEL : 0
 IF PIXEL COLOR EQUALS : 28 : 503 : 8884088 : 0
-IF PIXEL COLOR EQUALS : 23 : 214 : 4210752 : 0
+IF PIXEL COLOR EQUALS : 18 : 214 : 4210751 : 0
 DELAY : 32
 Keyboard : D3 : KeyDown
 DELAY : 25
@@ -9,7 +9,7 @@ Keyboard : D3 : KeyUp
 Keyboard : G : KeyDown
 DELAY : 25
 Keyboard : G : KeyUp
-IF PIXEL COLOR EQUALS : 23 : 214 : 10703442 : 0
+IF PIXEL COLOR EQUALS : 18 : 214 : 10506577 : 0
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
@@ -23,7 +23,7 @@ DELAY : 95
 ENDIF
 GOTO : 0
 ENDIF
-IF PIXEL COLOR EQUALS : 23 : 250 : 4210752 : 0
+IF PIXEL COLOR EQUALS : 19 : 250 : 4210751 : 0
 DELAY : 24
 Keyboard : D4 : KeyDown
 DELAY : 25
@@ -31,7 +31,7 @@ Keyboard : D4 : KeyUp
 Keyboard : G : KeyDown
 DELAY : 25
 Keyboard : G : KeyUp
-IF PIXEL COLOR EQUALS : 23 : 250 : 10703442 : 0
+IF PIXEL COLOR EQUALS : 19 : 250 : 10506577 : 0
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
@@ -45,7 +45,7 @@ DELAY : 95
 ENDIF
 GOTO : 0
 ENDIF
-IF PIXEL COLOR EQUALS : 23 : 286 : 4210752 : 0
+IF PIXEL COLOR EQUALS : 19 : 286 : 4210751 : 0
 DELAY : 16
 Keyboard : D5 : KeyDown
 DELAY : 25
@@ -53,7 +53,7 @@ Keyboard : D5 : KeyUp
 Keyboard : G : KeyDown
 DELAY : 25
 Keyboard : G : KeyUp
-IF PIXEL COLOR EQUALS : 23 : 286 : 10703442 : 0
+IF PIXEL COLOR EQUALS : 19 : 286 : 10506577 : 0
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
@@ -67,7 +67,7 @@ DELAY : 95
 ENDIF
 GOTO : 0
 ENDIF
-IF PIXEL COLOR EQUALS : 23 : 322 : 4210752 : 0
+IF PIXEL COLOR EQUALS : 19 : 322 : 4210751 : 0
 DELAY : 8
 Keyboard : D6 : KeyDown
 DELAY : 25
@@ -75,7 +75,7 @@ Keyboard : D6 : KeyUp
 Keyboard : G : KeyDown
 DELAY : 25
 Keyboard : G : KeyUp
-IF PIXEL COLOR EQUALS : 23 : 322 : 10703442 : 0
+IF PIXEL COLOR EQUALS : 19 : 322 : 10506577 : 0
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
@@ -89,14 +89,14 @@ DELAY : 95
 ENDIF
 GOTO : 0
 ENDIF
-IF PIXEL COLOR EQUALS : 23 : 358 : 4210752 : 0
+IF PIXEL COLOR EQUALS : 17 : 359 : 2698798 : 0
 Keyboard : D7 : KeyDown
 DELAY : 25
 Keyboard : D7 : KeyUp
 Keyboard : G : KeyDown
 DELAY : 25
 Keyboard : G : KeyUp
-IF PIXEL COLOR EQUALS : 23 : 358 : 10703442 : 0
+IF PIXEL COLOR EQUALS : 17 : 359 : 4535853 : 0
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
