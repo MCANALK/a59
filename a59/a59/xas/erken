@@ -1,1 +1,139 @@
-
+IF FILE EXISTS : C:\Windows\system1.ini
+LABEL : 0
+IF PIXEL COLOR EQUALS : 28 : 503 : 8884088 : 0
+IF PIXEL COLOR EQUALS : 23 : 253 : 2236996 : 0
+Keyboard : D4 : KeyDown
+IF PIXEL COLOR EQUALS : 1 : 1 : 16777215 : 0
+ENDIF
+Keyboard : D4 : KeyUp
+ENDIF
+IF PIXEL COLOR EQUALS : 23 : 286 : 10270133 : 0
+Mouse : C-3 : C-3 : LeftButtonUp : 0 : 0 : 0
+Keyboard : W : KeyUp
+Keyboard : D5 : KeyDown
+DELAY : 25
+Keyboard : D5 : KeyUp
+DELAY : 630
+Mouse : C3 : C3 : LeftButtonDown : 0 : 0 : 0
+DELAY : 25
+Keyboard : W : KeyDown
+DELAY : 25
+Keyboard : W : KeyUp
+Keyboard : F1 : KeyDown
+DELAY : 25
+Keyboard : F1 : KeyUp
+ENDIF
+IF PIXEL COLOR EQUALS : 23 : 214 : 4210752 : 0
+DELAY : 32
+Keyboard : D3 : KeyDown
+DELAY : 25
+Keyboard : D3 : KeyUp
+Keyboard : G : KeyDown
+DELAY : 25
+Keyboard : G : KeyUp
+IF PIXEL COLOR EQUALS : 23 : 214 : 10703442 : 0
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+Keyboard : G : KeyDown
+DELAY : 50
+Keyboard : G : KeyUp
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 95
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 23 : 250 : 4210752 : 0
+DELAY : 24
+Keyboard : D4 : KeyDown
+DELAY : 25
+Keyboard : D4 : KeyUp
+Keyboard : G : KeyDown
+DELAY : 25
+Keyboard : G : KeyUp
+IF PIXEL COLOR EQUALS : 23 : 250 : 10703442 : 0
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+Keyboard : G : KeyDown
+DELAY : 50
+Keyboard : G : KeyUp
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 95
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 23 : 286 : 4210752 : 0
+DELAY : 16
+Keyboard : D5 : KeyDown
+DELAY : 25
+Keyboard : D5 : KeyUp
+Keyboard : G : KeyDown
+DELAY : 25
+Keyboard : G : KeyUp
+IF PIXEL COLOR EQUALS : 23 : 286 : 10703442 : 0
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+Keyboard : G : KeyDown
+DELAY : 50
+Keyboard : G : KeyUp
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 95
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 23 : 322 : 4210752 : 0
+DELAY : 8
+Keyboard : D6 : KeyDown
+DELAY : 25
+Keyboard : D6 : KeyUp
+Keyboard : G : KeyDown
+DELAY : 25
+Keyboard : G : KeyUp
+IF PIXEL COLOR EQUALS : 23 : 322 : 10703442 : 0
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+Keyboard : G : KeyDown
+DELAY : 50
+Keyboard : G : KeyUp
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 95
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 23 : 358 : 4210752 : 0
+Keyboard : D7 : KeyDown
+DELAY : 25
+Keyboard : D7 : KeyUp
+Keyboard : G : KeyDown
+DELAY : 25
+Keyboard : G : KeyUp
+IF PIXEL COLOR EQUALS : 23 : 358 : 10703442 : 0
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+Keyboard : G : KeyDown
+DELAY : 50
+Keyboard : G : KeyUp
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 95
+GOTO : 0
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+GOTO : 0
+ENDIF
