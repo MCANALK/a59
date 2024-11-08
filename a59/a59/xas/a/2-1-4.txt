@@ -41,7 +41,7 @@ Keyboard : G : KeyUp
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
-DELAY : 295
+DELAY : 155
 ENDIF
 GOTO : 0
 ENDIF
@@ -63,7 +63,7 @@ Keyboard : G : KeyUp
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
-DELAY : 295
+DELAY : 155
 ENDIF
 GOTO : 0
 ENDIF
@@ -85,7 +85,7 @@ Keyboard : G : KeyUp
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
-DELAY : 295
+DELAY : 155
 ENDIF
 GOTO : 0
 ENDIF
@@ -107,7 +107,7 @@ Keyboard : G : KeyUp
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
-DELAY : 295
+DELAY : 155
 ENDIF
 GOTO : 0
 ENDIF
@@ -128,7 +128,7 @@ Keyboard : G : KeyUp
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
-DELAY : 295
+DELAY : 155
 GOTO : 0
 ENDIF
 ENDIF
