@@ -2,7 +2,6 @@ IF FILE EXISTS : C:\Windows\system1.ini
 LABEL : 0
 IF PIXEL COLOR EQUALS : 28 : 503 : 8884088 : 0
 IF PIXEL COLOR EQUALS : 18 : 214 : 4210751 : 0
-DELAY : 32
 Keyboard : D3 : KeyDown
 DELAY : 75
 Keyboard : D3 : KeyUp
@@ -19,7 +18,7 @@ Keyboard : G : KeyUp
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
-DELAY : 115
+DELAY : 103
 ENDIF
 GOTO : 0
 ENDIF
@@ -41,7 +40,7 @@ Keyboard : G : KeyUp
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
-DELAY : 115
+DELAY : 103
 ENDIF
 GOTO : 0
 ENDIF
@@ -63,7 +62,7 @@ Keyboard : G : KeyUp
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
-DELAY : 115
+DELAY : 103
 ENDIF
 GOTO : 0
 ENDIF
@@ -85,7 +84,7 @@ Keyboard : G : KeyUp
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
-DELAY : 115
+DELAY : 103
 ENDIF
 GOTO : 0
 ENDIF
@@ -106,7 +105,7 @@ Keyboard : G : KeyUp
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
-DELAY : 115
+DELAY : 103
 GOTO : 0
 ENDIF
 ENDIF
