@@ -1,0 +1,129 @@
+IF FILE EXISTS : C:\Windows\system1.ini
+LABEL : 0
+IF PIXEL COLOR EQUALS : 28 : 504 : 10989978 : 0
+IF PIXEL COLOR EQUALS : 0 : 0 : 10703442 : 0
+LABEL : m
+Keyboard : R : KeyDown
+DELAY : 25
+Keyboard : R : KeyUp
+DELAY : 25
+Keyboard : R : KeyDown
+DELAY : 25
+Keyboard : R : KeyUp
+DELAY : 25
+Keyboard : R : KeyDown
+DELAY : 25
+Keyboard : R : KeyUp
+DELAY : 25
+Keyboard : R : KeyDown
+DELAY : 25
+Keyboard : R : KeyUp
+DELAY : 25
+Keyboard : R : KeyDown
+DELAY : 25
+Keyboard : R : KeyUp
+DELAY : 25
+Keyboard : R : KeyDown
+DELAY : 25
+Keyboard : R : KeyUp
+DELAY : 25
+Keyboard : R : KeyDown
+DELAY : 25
+Keyboard : R : KeyUp
+DELAY : 25
+ENDIF
+IF PIXEL COLOR EQUALS : 17 : 219 : 4210752 : 0
+Keyboard : D3 : KeyDown
+DELAY : 55
+Keyboard : D3 : KeyUp
+DELAY : 55
+IF PIXEL COLOR EQUALS : 17 : 219 : 10703442 : 0
+GOTO : m
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 17 : 219 : 4210752 : 0
+Keyboard : D3 : KeyDown
+DELAY : 55
+Keyboard : D3 : KeyUp
+DELAY : 55
+IF PIXEL COLOR EQUALS : 17 : 219 : 10703442 : 0
+GOTO : m
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 17 : 255 : 3815994 : 0
+Keyboard : D4 : KeyDown
+DELAY : 55
+Keyboard : D4 : KeyUp
+DELAY : 55
+IF PIXEL COLOR EQUALS : 17 : 255 : 9718603 : 0
+GOTO : m
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 17 : 255 : 3815994 : 0
+Keyboard : D4 : KeyDown
+DELAY : 55
+Keyboard : D4 : KeyUp
+DELAY : 55
+IF PIXEL COLOR EQUALS : 17 : 255 : 9718603 : 0
+GOTO : m
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 18 : 290 : 4210752 : 0
+Keyboard : D5 : KeyDown
+DELAY : 55
+Keyboard : D5 : KeyUp
+DELAY : 55
+IF PIXEL COLOR EQUALS : 18 : 290 : 10703442 : 0
+GOTO : m
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 18 : 290 : 4210752 : 0
+Keyboard : D5 : KeyDown
+DELAY : 25
+Keyboard : D5 : KeyUp
+DELAY : 25
+IF PIXEL COLOR EQUALS : 18 : 290 : 10703442 : 0
+GOTO : m
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 18 : 324 : 2236962 : 0
+Keyboard : D6 : KeyDown
+DELAY : 55
+Keyboard : D6 : KeyUp
+DELAY : 55
+IF PIXEL COLOR EQUALS : 18 : 324 : 5778476 : 0
+GOTO : m
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 19 : 327 : 4210752 : 0
+Keyboard : D6 : KeyDown
+DELAY : 55
+Keyboard : D6 : KeyUp
+DELAY : 55
+IF PIXEL COLOR EQUALS : 19 : 327 : 10703442 : 0
+GOTO : m
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 18 : 363 : 4210752 : 0
+Keyboard : D7 : KeyDown
+DELAY : 25
+Keyboard : D7 : KeyUp
+DELAY : 25
+IF PIXEL COLOR EQUALS : 18 : 363 : 10703442 : 0
+GOTO : m
+ENDIF
+GOTO : 0
+ENDIF
+GOTO : 0
+ENDIF
+ENDIF
+ENDIF
+GOTO : 0
