@@ -17,7 +17,27 @@ DELAY : 6
 Keyboard : D9 : KeyDown
 DELAY : 6
 Keyboard : D9 : KeyUp
-DELAY : 7
+DELAY : 6
+Keyboard : D9 : KeyDown
+DELAY : 6
+Keyboard : D9 : KeyUp
+DELAY : 6
+Keyboard : D9 : KeyDown
+DELAY : 6
+Keyboard : D9 : KeyUp
+DELAY : 6
+Keyboard : D9 : KeyDown
+DELAY : 6
+Keyboard : D9 : KeyUp
+DELAY : 6
+Keyboard : D9 : KeyDown
+DELAY : 6
+Keyboard : D9 : KeyUp
+DELAY : 6
+Keyboard : D9 : KeyDown
+DELAY : 6
+Keyboard : D9 : KeyUp
+DELAY : 6
 ENDIF
 ENDIF
 ENDIF
