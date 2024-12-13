@@ -1,5 +1,5 @@
 LABEL : 1
-IF PIXEL COLOR EQUALS : 23 : 215 : 12413803 : 0
+IF PIXEL COLOR EQUALS : 25 : 216 : 12413803 : 0
 Keyboard : D4 : KeyDown
 DELAY : 453
 Keyboard : D4 : KeyUp
@@ -14,7 +14,7 @@ DELAY : 15
 Keyboard : W : KeyUp
 GOTO : 1
 ENDIF
-IF PIXEL COLOR EQUALS : 23 : 252 : 7798784 : 0
+IF PIXEL COLOR EQUALS : 25 : 254 : 7798784 : 0
 Keyboard : W : KeyDown
 DELAY : 24
 Keyboard : D4 : KeyDown
@@ -38,7 +38,7 @@ Keyboard : D6 : KeyUp
 DELAY : 75
 GOTO : 1
 ENDIF
-IF PIXEL COLOR EQUALS : 23 : 216 : 8926003 : 0
+IF PIXEL COLOR EQUALS : 25 : 218 : 7807522 : 0
 Keyboard : D3 : KeyDown
 DELAY : 75
 Keyboard : D3 : KeyUp
