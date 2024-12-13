@@ -1,6 +1,5 @@
 IF FILE EXISTS : C:\Windows\system1.ini
 LABEL : 0
-IF PIXEL COLOR EQUALS : 28 : 503 : 8884088 : 0
 IF PIXEL COLOR EQUALS : 179 : 43 : 0 : 0
 IF PIXEL COLOR EQUALS : 86 : 57 : 1648837 : 0
 Keyboard : D9 : KeyDown
@@ -170,8 +169,8 @@ GOTO : 0
 ENDIF
 ENDIF
 LABEL : 1
-IF PIXEL COLOR EQUALS : 81 : 57 : 1648837 : 0
-IF PIXEL COLOR EQUALS : 24 : 219 : 1118515 : 0
+IF PIXEL COLOR EQUALS : 88 : 62 : 1852384 : 0
+IF PIXEL COLOR EQUALS : 26 : 218 : 2237013 : 0
 Keyboard : D9 : KeyDown
 DELAY : 10
 Keyboard : D9 : KeyUp
@@ -264,33 +263,6 @@ Keyboard : D9 : KeyDown
 DELAY : 10
 Keyboard : D9 : KeyUp
 DELAY : 10
-Keyboard : D9 : KeyDown
-DELAY : 10
-Keyboard : D9 : KeyUp
-DELAY : 10
-Keyboard : D9 : KeyDown
-DELAY : 10
-Keyboard : D9 : KeyUp
-DELAY : 10
-Keyboard : D9 : KeyDown
-DELAY : 10
-Keyboard : D9 : KeyUp
-DELAY : 10
-Keyboard : D9 : KeyDown
-DELAY : 10
-Keyboard : D9 : KeyUp
-DELAY : 10
-Keyboard : D9 : KeyDown
-DELAY : 10
-Keyboard : D9 : KeyUp
-DELAY : 10
-Keyboard : D9 : KeyDown
-DELAY : 10
-Keyboard : D9 : KeyUp
-DELAY : 10
-Keyboard : D9 : KeyDown
-DELAY : 10
-Keyboard : D9 : KeyUp
 GOTO : 1
 ENDIF
 ENDIF
@@ -321,4 +293,3 @@ ENDIF
 ENDIF
 ENDIF
 GOTO : 0
-ENDIF
