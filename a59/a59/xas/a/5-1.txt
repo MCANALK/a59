@@ -158,5 +158,133 @@ Keyboard : D6 : KeyDown
 DELAY : 75
 Keyboard : D6 : KeyUp
 DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 400
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 585
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 585
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 585
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 560
+Keyboard : D7 : KeyDown
+DELAY : 75
+Keyboard : D7 : KeyUp
+DELAY : 75
+Keyboard : F1 : KeyDown
+DELAY : 75
+Keyboard : F1 : KeyUp
+DELAY : 520
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 585
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 585
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 585
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 400
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 585
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 585
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 600
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 585
+Keyboard : D7 : KeyDown
+DELAY : 75
+Keyboard : D7 : KeyUp
+DELAY : 585
+Keyboard : D7 : KeyDown
+DELAY : 75
+Keyboard : D7 : KeyUp
+DELAY : 585
+Keyboard : D7 : KeyDown
+DELAY : 75
+Keyboard : D7 : KeyUp
+DELAY : 75
+Keyboard : F1 : KeyDown
+DELAY : 75
+Keyboard : F1 : KeyUp
+DELAY : 400
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 400
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 585
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 585
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 585
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 585
+Keyboard : D7 : KeyDown
+DELAY : 75
+Keyboard : D7 : KeyUp
+DELAY : 75
+Keyboard : F1 : KeyDown
+DELAY : 75
+Keyboard : F1 : KeyUp
+DELAY : 498
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 585
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 565
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 585
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 585
 ENDIF
 GOTO : A
