@@ -12,6 +12,7 @@ Keyboard : D5 : KeyUp
 DELAY : 25
 ENDIF
 LABEL : 0
+DELAY : 75
 IF PIXEL COLOR EQUALS : 25 : 215 : 4210752 : 0
 DELAY : 75
 Keyboard : D3 : KeyDown
