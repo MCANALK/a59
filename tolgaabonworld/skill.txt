@@ -238,5 +238,61 @@ Keyboard : D3 : KeyDown
 DELAY : 75
 Keyboard : D3 : KeyUp
 DELAY : 560
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 560
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 435
+Keyboard : D2 : KeyDown
+DELAY : 75
+Keyboard : D2 : KeyUp
+DELAY : 585
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 585
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 585
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 75
+Keyboard : F3 : KeyDown
+DELAY : 75
+Keyboard : F3 : KeyUp
+DELAY : 435
+Keyboard : D2 : KeyDown
+DELAY : 75
+Keyboard : D2 : KeyUp
+DELAY : 585
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 75
+Keyboard : F1 : KeyDown
+DELAY : 75
+Keyboard : F1 : KeyUp
+DELAY : 485
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 560
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 585
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 75
 ENDIF
 GOTO : k
